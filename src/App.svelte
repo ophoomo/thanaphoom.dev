@@ -44,7 +44,7 @@
       </section>
     </section>
     <div class="content-1">
-      <img class="nes-avatar is-rounded is-extra" src={phoom} alt="NoImage">
+      <img class="nes-avatar is-rounded is-extra" width="128" height="128" src={phoom} alt="NoImage">
       <div class="nes-container with-title  is-dark" style="width: 100%;text-align:center;">
         <div class="title">Social</div>
         <a target="_blank" href="https://www.facebook.com/PhoomZoZa/"><i class="nes-icon facebook is-smail"></i></a>

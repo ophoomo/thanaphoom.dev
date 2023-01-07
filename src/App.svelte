@@ -48,7 +48,7 @@
       <div class="nes-container with-title  is-dark" style="width: 100%;text-align:center;">
         <div class="title">Social</div>
         <a target="_blank" href="https://www.facebook.com/PhoomZoZa/"><i class="nes-icon facebook is-smail"></i></a>
-        <a target="_blank" href="https://www.instagram.com/ophoomo/"><i class="nes-icon instagram is-smail"></i></a>
+        <a target="_blank" href="https://www.instagram.com/mooh.panaht/"><i class="nes-icon instagram is-smail"></i></a>
         <a target="_blank" href="mailto:me@thanaphoom.dev"><i class="nes-icon gmail is-smail"></i></a>
         <a target="_blank" href="https://github.com/ophoomo"><i class="nes-icon github is-smail"></i></a>
       </div>

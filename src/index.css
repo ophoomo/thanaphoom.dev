@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+:root {
+  --primary: #9964ee;
+}
+
+* {
+  color: white;
+  font-family: 'Prompt', sans-serif !important;
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+html, body {
+  background-color: rgb(24, 24, 24);
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+.primary {
+  color: var(--primary);
+}
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--primary);
+  border-bottom-right-radius: 100px;
+  transform-origin: 0%;
+}
